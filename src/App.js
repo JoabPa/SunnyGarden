@@ -1,9 +1,12 @@
 import './App.css';
+import Navbar from './components/Navbar';
+import Footer from './components/Footer'
 
 function App() {
   return (
     <>
-      <h1>SunnyGarden</h1>
+      <Navbar />
+      <Footer/>
     </>
   );
 }

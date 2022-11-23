@@ -6,7 +6,7 @@ function Header(props) {
     <nav className='nav'>
       <img
         src='img/logo.png'
-        alt='DobleJ logo'
+        alt='SunnyGarden logo'
         className='nav__logo'
         id='logo'
         designer='Joab'
